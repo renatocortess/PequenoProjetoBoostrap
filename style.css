@@ -1,0 +1,26 @@
+.cardsgeral{
+    display:flex;
+   justify-content: space-around;
+    align-items: center;
+    margin-top: 30px;
+    
+
+}
+.formulario{
+    padding:25px;
+    background-color: cadetblue;
+
+}
+.mb-3{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.dgrid{
+    padding:5px;
+    margin-bottom: 20px;
+}
+.lead{
+    margin:40px;
+}
