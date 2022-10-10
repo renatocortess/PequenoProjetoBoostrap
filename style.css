@@ -24,3 +24,9 @@
 .lead{
     margin:40px;
 }
+
+.button-form{
+    margin:20px;
+    display:flex;
+    justify-content: space-around;
+}
